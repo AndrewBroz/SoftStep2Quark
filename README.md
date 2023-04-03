@@ -1,5 +1,5 @@
-**Warning**
-DON'T USE YET. This fork of SoftStepQuark is not ready. Try again in a few months.
+> **Warning**
+> DON'T USE YET. This fork of SoftStepQuark is not ready. Try again in a few months.
 
 # SoftStep2Quark
 
