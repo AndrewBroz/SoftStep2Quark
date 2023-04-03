@@ -1,17 +1,19 @@
-> **Warning**
-> DON'T USE YET. This fork of SoftStepQuark is not ready. Try again in a few months.
+> **Warning**  
+> _**This Quark isn't ready.** Come back in a few months._
 
 # SoftStep2Quark
 
-SoftStep2Quark is a SuperCollider Quark provides classes to work with the KeithMcMillen SoftStep2 foot controller.
+SoftStep2Quark is a SuperCollider Quark that provides classes for the KeithMcMillen SoftStep2 controller.
 
-Authors: Axel Baesler (original SoftStepQuark author), Andrew Broz
-Licence: GPL
-
-Liability: This software comes without any warranty for hardware damage. If you use this you should know what you're doing, i.e., have at least some knowledge of SuperCollider.
-
-Links:
-
-https://github.com/X2theL/SoftStepQuark
-https://github.com/supercollider/
-https://www.keithmcmillen.com/
+> **Authors:** Axel Baesler (original SoftStepQuark author), Andrew Broz  
+> 
+> **Licence:** GPL  
+> 
+> **Warning**  
+> **Liability:** _This software comes without any warranty for hardware damage. Don't use this without at least some knowledge of SuperCollider._  
+> 
+> **Links:**  
+> [Original SoftStepQuark repo](https://github.com/X2theL/SoftStepQuark)  
+> [Community Quarks](https://github.com/supercollider-quarks/quarks)  
+> [SuperCollider repo](https://github.com/supercollider/)  
+> [SoftStep2 by Keith McMillen](https://www.keithmcmillen.com/products/softstep/)  
