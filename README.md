@@ -5,7 +5,7 @@
 
 SoftStep2Quark is a SuperCollider Quark that provides classes for the KeithMcMillen SoftStep2 controller.
 
-> **Authors:** Axel Baesler (original SoftStepQuark author), Andrew Broz  
+> **Authors:** [Axel Baesler](https://github.com/X2theL) (original SoftStepQuark author), [Andrew Broz](https://github.com/andrewbroz)  
 > 
 > **Licence:** GPL  
 > 
